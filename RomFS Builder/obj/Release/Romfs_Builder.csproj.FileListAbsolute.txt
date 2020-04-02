@@ -1,0 +1,6 @@
+C:\Users\moonl\source\repos\Romfs_Builder\bin\Release\Romfs_Builder.exe.config
+C:\Users\moonl\source\repos\Romfs_Builder\bin\Release\Romfs_Builder.exe
+C:\Users\moonl\source\repos\Romfs_Builder\bin\Release\Romfs_Builder.pdb
+C:\Users\moonl\source\repos\Romfs_Builder\obj\Release\Romfs_Builder.csproj.CoreCompileInputs.cache
+C:\Users\moonl\source\repos\Romfs_Builder\obj\Release\Romfs_Builder.exe
+C:\Users\moonl\source\repos\Romfs_Builder\obj\Release\Romfs_Builder.pdb

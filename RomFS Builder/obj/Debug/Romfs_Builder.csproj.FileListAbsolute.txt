@@ -1,0 +1,7 @@
+C:\Users\moonl\source\repos\Romfs_Builder\bin\Debug\Romfs_Builder.exe.config
+C:\Users\moonl\source\repos\Romfs_Builder\bin\Debug\Romfs_Builder.exe
+C:\Users\moonl\source\repos\Romfs_Builder\bin\Debug\Romfs_Builder.pdb
+C:\Users\moonl\source\repos\Romfs_Builder\obj\Debug\Romfs_Builder.csprojAssemblyReference.cache
+C:\Users\moonl\source\repos\Romfs_Builder\obj\Debug\Romfs_Builder.csproj.CoreCompileInputs.cache
+C:\Users\moonl\source\repos\Romfs_Builder\obj\Debug\Romfs_Builder.exe
+C:\Users\moonl\source\repos\Romfs_Builder\obj\Debug\Romfs_Builder.pdb
